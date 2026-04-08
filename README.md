@@ -55,6 +55,7 @@ Jalankan perintah berikut di terminal:
 ```bash
 php spark serve
 ```
+![Terminal](assets/terminal.png)
 
 Kemudian buka browser:
 
